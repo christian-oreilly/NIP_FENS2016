@@ -5,4 +5,4 @@ matplotlib
 IPython
 neurom
 pandas
-nrrd
+pynrrd
