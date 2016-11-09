@@ -1,0 +1,9 @@
+requests
+numpy
+pydot
+json
+matplotlib
+IPython
+neurom
+pandas
+nrrd
