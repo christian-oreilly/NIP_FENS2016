@@ -12,3 +12,4 @@ USER main
 
 # Install requirements for Python 2
 ADD requirements.txt requirements.txt
+RUN pip install -r requirements.txt
