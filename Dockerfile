@@ -1,6 +1,7 @@
 FROM ubuntu:14.04.4 
 
 MAINTAINER Eric Crosson (eric.s.crosson@utexas.edu) 
+USER root
 
 ENV DEBIAN_FRONTEND noninteractive 
 
