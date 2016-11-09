@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/christian-oreilly/nip_fens2016)
+
 # Introduction to the Neuroinformatics Platform (NIP)
 
 This repository contains three notebooks which purpose is to demonstrate the use of various functionnalities of the Human Brain Project (HBP) Neuroinformatics Platform (NIP):
